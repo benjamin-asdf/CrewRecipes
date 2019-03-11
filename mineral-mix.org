@@ -1,7 +1,6 @@
 * mineral mix
-<2019-02-17 Sun>
-
-3 parts table salt
-2 parts potassium bicarbonate
-1 part calcium phosphate (or slightly less)
-1 part magnesium bisglycinate chelate
+** <2019-02-17 Sun>
+*** 3 parts table salt
+*** 2 parts potassium bicarbonate
+*** 1 part calcium phosphate (or slightly less)
+*** 1 part magnesium bisglycinate chelate
